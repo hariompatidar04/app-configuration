@@ -1,5 +1,0 @@
-build:
- id:103
- version:3.0.2
- name:Production-git-configuration
- type:this is the spring-cloud configuration for Production Enviroment
