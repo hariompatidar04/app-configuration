@@ -1,5 +1,5 @@
 build:
  id: 102
  version: 2.1.3
- name: Development-git-configuration
+ name: Updated Development-git-configuration
  type: this is the spring-cloud configuration for Devlopment Enviroment
